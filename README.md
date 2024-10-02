@@ -30,6 +30,6 @@
 <a href="https://www.linkedin.com/in/paulo-prediger-242629291/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.com/pauloprediger/pauloprediger/blob/output/github-contribution-grid-snake.svg)
+
 
 
