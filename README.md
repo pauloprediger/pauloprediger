@@ -5,7 +5,14 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloprediger&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=pauloprediger&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-  
+
+## Projetos 
+
+### Projeto Android HTML5 com Responsividade
+<a href="https://pauloprediger.github.io/HTML//desafios/android/index.html" target="_blank">
+  <img src="https://github.com/pauloprediger/pauloprediger/blob/main/assets/projeto-android.png" width="400" height="300" alt="Projeto Android HTML5 com Responsividade"/>
+</a>
+
 - 🔭 Eu estou atuamente estudando JavaScript e React, e em breve pretendo me aventurar com Node.js;
 - 🌱 Eu sou estudante de Ánalise e desenvolvimento de Sistemas pela Estácio e meu objetivo é me tornar um desenvolvedor fullstack;
 - 👯 Me formei com ensino médio técnico em informática, depois cursei gastronomia, atualmente atuo como padeiro, e estou em processo de mudança de carreira; 
@@ -29,7 +36,5 @@
 <a href = "mailto:pauloprediger99@gamil.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/paulo-prediger-242629291/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-
 
 
