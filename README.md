@@ -25,17 +25,26 @@
 
 ## Projetos 
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <div style="margin: 10px;">
-    <a href="https://pauloprediger.github.io/HTML//desafios/android/index.html" target="_blank">
-      <img src="https://github.com/pauloprediger/pauloprediger/blob/main/assets/projeto-android.png" width="400" height="300" alt="Projeto Android HTML5 com Responsividade"/>
-    </a>
-  </div>
-  <div style="margin: 10px;">
-    <a href="https://pauloprediger.github.io/Login/" target="_blank">
-      <img src="https://github.com/pauloprediger/pauloprediger/blob/main/assets/login-respons%C3%ADvel.png" width="400" height="300" alt="Tela de login responsível com HTML5 e CSS3"/>
-    </a>
-  </div>
+<table>
+  <tr>
+    <td>
+      <a href="https://pauloprediger.github.io/HTML//desafios/android/index.html" target="_blank">
+        <img src="https://github.com/pauloprediger/pauloprediger/blob/main/assets/projeto-android.png" width="400" height="300" alt="Projeto Android HTML5 com Responsividade"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://pauloprediger.github.io/Login/" target="_blank">
+        <img src="https://github.com/pauloprediger/pauloprediger/blob/main/assets/login-respons%C3%ADvel.png" width="400" height="300" alt="Tela de login responsível com HTML5 e CSS3"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+## Contatos:
+<div>
+<a href="https://www.instagram.com/pauloprediger/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:pauloprediger99@gamil.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/paulo-prediger-242629291/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 ## Contatos:
