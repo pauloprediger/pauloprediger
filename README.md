@@ -47,6 +47,12 @@
         <img src="https://github.com/pauloprediger/pauloprediger/blob/main/assets/projeto-Spotigy.png" width="400" height="300" alt="Projeto Spotify Imersão Alura"/>
       </a>
     </td>
+    <td>
+      <p>Projetos com JavaScript</p>
+      <a href= "https://pauloprediger.github.io/Praticando-Logica-de-Progamacao/" target = "blanck">
+       <img src = "https://github.com/pauloprediger/pauloprediger/blob/main/assets/exerc%C3%ADcios-java.png" width="400" height="300" alt="Projetos JavaScript Alura"/>
+      </a>
+    </td>
   </tr>
 </table>
 
