@@ -30,13 +30,13 @@
     <td align="center">
       <p>Projeto Android com Responsividade</p>
       <a href="https://pauloprediger.github.io/HTML//desafios/android/index.html" target="_blank">
-        <img src="https://github.com/pauloprediger/pauloprediger/blob/main/assets/projeto-android.png" width="400" height="300" alt="Projeto Android HTML5 com Responsividade"/>
+        <img src="https://github.com/pauloprediger/pauloprediger/blob/main/assets/projeto-android.png" class="responsive-img" alt="Projeto Android HTML5 com Responsividade"/>
       </a>
     </td>
     <td align="center">
       <p>Tela de login com HTML5 e CSS3</p>
       <a href="https://pauloprediger.github.io/Login/" target="_blank">
-        <img src="https://github.com/pauloprediger/pauloprediger/blob/main/assets/login-respons%C3%ADvel.png" width="400" height="300" alt="Tela de login responsível com HTML5 e CSS3"/>
+        <img src="https://github.com/pauloprediger/pauloprediger/blob/main/assets/login-respons%C3%ADvel.png" class="responsive-img" alt="Tela de login responsível com HTML5 e CSS3"/>
       </a>
     </td>
   </tr>
@@ -44,13 +44,13 @@
     <td align="center">
       <p>Projeto Spotify com JavaScript</p>
       <a href="https://pauloprediger.github.io/Imersao-Alura/" target="_blank">
-        <img src="https://github.com/pauloprediger/pauloprediger/blob/main/assets/projeto-Spotigy.png" width="400" height="300" alt="Projeto Spotify Imersão Alura"/>
+        <img src="https://github.com/pauloprediger/pauloprediger/blob/main/assets/projeto-Spotigy.png" class="responsive-img" alt="Projeto Spotify Imersão Alura"/>
       </a>
     </td>
-    <td>
+    <td align="center">
       <p>Projetos com JavaScript</p>
-      <a href= "https://pauloprediger.github.io/Praticando-Logica-de-Progamacao/" target = "blanck">
-       <img src = "https://github.com/pauloprediger/pauloprediger/blob/main/assets/exerc%C3%ADcios-java.png" width="400" height="300" alt="Projetos JavaScript Alura"/>
+      <a href="https://pauloprediger.github.io/Praticando-Logica-de-Progamacao/" target="_blank">
+        <img src="https://github.com/pauloprediger/pauloprediger/blob/main/assets/exerc%C3%ADcios-java.png" class="responsive-img" alt="Projetos JavaScript Alura"/>
       </a>
     </td>
   </tr>
@@ -60,18 +60,8 @@
 <div>
 <a href="https://www.instagram.com/pauloprediger/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:pauloprediger99@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/paulo-prediger-242629291/" target="_blank"><img target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-<style>
-  @media (max-width: 600px) {
-    table, tr, td {
-      display: block;
-      width: 100%;
-    }
-    .responsive-img {
-      width: 100%;
-      height: auto;
-    }
-  }
-</style>
+<a href="https://www.linkedin.com/in/paulo-prediger-242629291/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+
  
