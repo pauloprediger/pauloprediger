@@ -43,7 +43,7 @@
   <tr>
     <td align="center">
       <p>Projeto Spotify com JavaScript</p>
-      <a href="URL_DA_SUA_IMAGEM" target="_blank">
+      <a href="https://pauloprediger.github.io/Imersao-Alura/" target="_blank">
         <img src="https://github.com/pauloprediger/pauloprediger/blob/main/assets/projeto-Spotigy.png" width="400" height="300" alt="Projeto Spotify Imersão Alura"/>
       </a>
     </td>
