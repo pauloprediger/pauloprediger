@@ -6,8 +6,8 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=pauloprediger&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-- 🔭 Eu estou atuamente estudando JavaScript e React, e em breve pretendo me aventurar com Node.js;
-- 🌱 Eu sou estudante de Ánalise e desenvolvimento de Sistemas pela Estácio e meu objetivo é me tornar um desenvolvedor fullstack;
+- 🔭 Eu estou atualmente estudando JavaScript e React, e em breve pretendo me aventurar com Node.js;
+- 🌱 Eu sou estudante de Análise e Desenvolvimento de Sistemas pela Estácio e meu objetivo é me tornar um desenvolvedor fullstack;
 - 👯 Me formei com ensino médio técnico em informática, depois cursei gastronomia, atualmente atuo como padeiro, e estou em processo de mudança de carreira; 
 - 🤔 Estou a procura de contatos no mundo da TI, buscando estágio atualmente;
 - 😄 Pronomes: ele/dele; 
@@ -28,15 +28,23 @@
 <table>
   <tr>
     <td align="center">
-      <p>Projeto Android HTML5 com Responsividade</p>
+      <p>Projeto Android com Responsividade</p>
       <a href="https://pauloprediger.github.io/HTML//desafios/android/index.html" target="_blank">
         <img src="https://github.com/pauloprediger/pauloprediger/blob/main/assets/projeto-android.png" width="400" height="300" alt="Projeto Android HTML5 com Responsividade"/>
       </a>
     </td>
     <td align="center">
-      <p>Tela de login responsível com HTML5 e CSS3</p>
+      <p>Tela de login com HTML5 e CSS3</p>
       <a href="https://pauloprediger.github.io/Login/" target="_blank">
         <img src="https://github.com/pauloprediger/pauloprediger/blob/main/assets/login-respons%C3%ADvel.png" width="400" height="300" alt="Tela de login responsível com HTML5 e CSS3"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <p>Projeto Spotify com JavaScript</p>
+      <a href="URL_DA_SUA_IMAGEM" target="_blank">
+        <img src="https://github.com/pauloprediger/pauloprediger/blob/main/assets/projeto-Spotigy.png" width="400" height="300" alt="Projeto Spotify Imersão Alura"/>
       </a>
     </td>
   </tr>
@@ -45,7 +53,6 @@
 ## Contatos:
 <div>
 <a href="https://www.instagram.com/pauloprediger/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:pauloprediger99@gamil.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/paulo-prediger-242629291/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
+<a href = "mailto:pauloprediger99@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/paulo-prediger-242629291/" target="_blank"><img target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+ 
