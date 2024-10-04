@@ -60,5 +60,18 @@
 <div>
 <a href="https://www.instagram.com/pauloprediger/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:pauloprediger99@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/paulo-prediger-242629291/" target="_blank"><img target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/paulo-prediger-242629291/" target="_blank"><img target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+<style>
+  @media (max-width: 600px) {
+    table, tr, td {
+      display: block;
+      width: 100%;
+    }
+    .responsive-img {
+      width: 100%;
+      height: auto;
+    }
+  }
+</style>
  
