@@ -23,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" style="margin: 10px;"/>
 </p>
 
-## Projetos 
+## Últimos Projetos 
 
 <table>
   <tr>
