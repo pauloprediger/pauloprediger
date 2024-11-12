@@ -28,14 +28,14 @@
 <table>
   <tr>
     <td align="center">
-      <p>Projeto Android com Responsividade</p>
-      <a href="https://pauloprediger.github.io/HTML//desafios/android/index.html" target="_blank">
-        <img src="https://github.com/pauloprediger/pauloprediger/blob/main/assets/projeto-android.png" class="responsive-img" alt="Projeto Android HTML5 com Responsividade"/>
+      <p>Projeto Organograma com React</p>
+      <a href="https://github.com/pauloprediger/Organograma_React" target="_blank">
+        <img src="https://github.com/pauloprediger/pauloprediger/blob/main/assets/projeto-android.png" class="responsive-img" alt="Projeto Organograma com React"/>
       </a>
     </td>
     <td align="center">
       <p>Tela de login com HTML5 e CSS3</p>
-      <a href="https://pauloprediger.github.io/Login/" target="_blank">
+      <a href="https://github.com/pauloprediger/Login/tree/main" target="_blank">
         <img src="https://github.com/pauloprediger/pauloprediger/blob/main/assets/login-respons%C3%ADvel.png" class="responsive-img" alt="Tela de login responsível com HTML5 e CSS3"/>
       </a>
     </td>
@@ -48,9 +48,9 @@
       </a>
     </td>
     <td align="center">
-      <p>Projetos com JavaScript</p>
-      <a href="https://pauloprediger.github.io/Praticando-Logica-de-Progamacao/" target="_blank">
-        <img src="https://github.com/pauloprediger/pauloprediger/blob/main/assets/exerc%C3%ADcios-java.png" class="responsive-img" alt="Projetos JavaScript Alura"/>
+      <p>Porjeto CatClicker</p>
+      <a href="https://github.com/pauloprediger/clickerGame" target="_blank">
+        <img src="https://github.com/pauloprediger/pauloprediger/blob/main/assets/exerc%C3%ADcios-java.png" class="responsive-img" alt="Projeto Jogo Gato"/>
       </a>
     </td>
   </tr>
