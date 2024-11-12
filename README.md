@@ -30,13 +30,13 @@
     <td align="center">
       <p>Projeto Organograma com React</p>
       <a href="https://github.com/pauloprediger/Organograma_React" target="_blank">
-        <img src="https://github.com/pauloprediger/pauloprediger/blob/main/assets/projeto-android.png" class="responsive-img" alt="Projeto Organograma com React"/>
+        <img src="https://github.com/pauloprediger/pauloprediger/blob/main/assets/novoTime.png" class="responsive-img" alt="Projeto Organograma com React"/>
       </a>
     </td>
     <td align="center">
       <p>Tela de login com HTML5 e CSS3</p>
       <a href="https://github.com/pauloprediger/Login/tree/main" target="_blank">
-        <img src="https://github.com/pauloprediger/pauloprediger/blob/main/assets/login-respons%C3%ADvel.png" class="responsive-img" alt="Tela de login responsível com HTML5 e CSS3"/>
+        <img src="https://github.com/pauloprediger/pauloprediger/blob/main/assets/Captura%20de%20tela%202024-11-12%20122807.png" class="responsive-img" alt="Tela de login responsível com HTML5 e CSS3" width = 80%/>
       </a>
     </td>
   </tr>
@@ -50,7 +50,7 @@
     <td align="center">
       <p>Porjeto CatClicker</p>
       <a href="https://github.com/pauloprediger/clickerGame" target="_blank">
-        <img src="https://github.com/pauloprediger/pauloprediger/blob/main/assets/exerc%C3%ADcios-java.png" class="responsive-img" alt="Projeto Jogo Gato"/>
+        <img src="https://github.com/pauloprediger/pauloprediger/blob/main/assets/Captura%20de%20tela%202024-11-12%20125706.png" class="responsive-img" alt="Projeto Jogo Gato" width = 80%/>
       </a>
     </td>
   </tr>
