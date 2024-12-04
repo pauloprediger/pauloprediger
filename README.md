@@ -49,7 +49,7 @@
     </td>
     <td align="center">
       <p>Porjeto CatClicker</p>
-      <a href="https://github.com/pauloprediger/clickerGame" target="_blank">
+      <a href="https://github.com/pauloprediger/catClicker" target="_blank">
         <img src="https://github.com/pauloprediger/pauloprediger/blob/main/assets/Captura%20de%20tela%202024-11-12%20125706.png" class="responsive-img" alt="Projeto Jogo Gato" width = 80%/>
       </a>
     </td>
