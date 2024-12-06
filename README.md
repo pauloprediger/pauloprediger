@@ -34,9 +34,9 @@
       </a>
     </td>
     <td align="center">
-      <p>Tela de login com HTML5 e CSS3</p>
-      <a href="https://github.com/pauloprediger/Login/tree/main" target="_blank">
-        <img src="https://github.com/pauloprediger/pauloprediger/blob/main/assets/Captura%20de%20tela%202024-11-12%20122807.png" class="responsive-img" alt="Tela de login responsível com HTML5 e CSS3" width = 80%/>
+      <p>Blog de Notícias em React</p>
+      <a href="https://github.com/pauloprediger/space-app/tree/main" target="_blank">
+        <img src="https://github.com/pauloprediger/pauloprediger/blob/main/assets/space-app.png" class="responsive-img" alt="Blog de notícias em react" width = 80%/>
       </a>
     </td>
   </tr>
