@@ -36,7 +36,7 @@
     <td align="center">
       <p>Blog de Notícias em React</p>
       <a href="https://github.com/pauloprediger/space-app/tree/main" target="_blank">
-        <img src="https://github.com/pauloprediger/pauloprediger/blob/main/assets/space-app.png" class="responsive-img" alt="Blog de notícias em react" width = 80%/>
+        <img src="https://github.com/pauloprediger/pauloprediger/blob/main/assets/sapce-app.png" class="responsive-img" alt="Blog de notícias em react" width = 80%/>
       </a>
     </td>
   </tr>
